@@ -1,0 +1,17 @@
+{
+  "name": "be_challenge_2",
+  "version": "0.0.0",
+  "description": "BE_Challenge_2",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  },
+  "devDependencies": {
+    "eslint": "^8.21.0"
+  },
+  "eslintConfig": {},
+  "dependencies": {
+    "formidable": "^3.5.1",
+    "mysql": "^2.18.1"
+  }
+}
